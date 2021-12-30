@@ -1,0 +1,57 @@
+/* #022b3a
+#1f7a8c
+#bfdbf7
+#e1e5f2
+#ffffff */
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: #e9ecef;
+    font-family: "Montserrat", sand-serif;
+    text-align: center;
+    
+}
+
+.title {
+    color: #495057;
+    text-align: center;
+    font-family: "Montserrat", sand-serif;
+    font-size: 3em;
+    padding: 30px 20px;
+}
+.input {
+    text-align: center;
+
+}
+input[type="text"] {
+    height: 50px;
+    width: 300px;
+   font-weight: 300;
+   font-size:x-large;
+   background: #f8f9fa;
+   border-color: #adb5bd;
+   
+   
+}
+#button {
+    height: 50px;
+    width: 200px;
+   font-weight: 300;
+    font-size: x-large;
+    background: #adb5bd ;
+    color: #e9ecef;
+    border-color: #adb5bd;
+}
+
+.display {
+    padding-top: 20px;
+    line-height: 1.8;
+    
+
+}
